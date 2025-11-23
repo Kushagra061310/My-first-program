@@ -8,12 +8,16 @@ It allows users to Create, Read, Update, and Delete (CRUD) employee records, inc
 
 
 --> Features
+
+
 Insert Employee – Add new employee details with unique ID.
 View Employees – Display all stored employee records.
 Update Employee – Modify existing employee details (name, position, or salary).
 Delete Employee – Remove an employee record by ID.
 Data Storage – Uses Python lists/dictionaries in memory (no database).
 --> How It Works
+
+
 The program runs in a loop, showing a menu for CRUD operations.
 Employee data is stored in a list of dictionaries for easy access and modification.
 Input validation ensures correct data entry.
