@@ -28,7 +28,7 @@ Copy code
 4. Delete Employee
 5. Exit
 
-6. 
+ 
 --> Use Cases
 Small-scale employee record keeping.
 Learning CRUD operations in Python without databases.
@@ -37,5 +37,7 @@ Beginner-friendly Python project for GitHub portfolio.
 
 References
 Python Official Documentation – https://docs.python.org/3/
+
+
 CRUD Operations Concept – https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
 
